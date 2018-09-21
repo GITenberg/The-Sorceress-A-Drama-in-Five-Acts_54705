@@ -5,6 +5,9 @@ contributor:
     agent_name: Weissert, Charles A.
     gutenberg_agent_id: '48004'
     url: http://www.gutenberg.org/2009/agents/48004
+covers:
+- cover_type: archival
+  image_path: 54705-h/images/cover_alt.jpg
 creator:
   author:
     agent_name: Sardou, Victorien
@@ -17,6 +20,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Victorien_Sardou
     - http://en.wikipedia.org/wiki/Victorien_Sardou
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54705#The-Sorceress-A-Drama-in-Five-Acts
 gutenberg_issued: '2017-05-11'
 gutenberg_type: Text
 identifiers:
